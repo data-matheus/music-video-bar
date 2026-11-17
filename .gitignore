@@ -1,0 +1,17 @@
+# ambiente e cache
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+
+# logs e saídas locais
+*.log
+log.txt
+snapshots/
+
+# editor / SO
+.vscode/
+.idea/
+.claude/
+Thumbs.db
+desktop.ini
